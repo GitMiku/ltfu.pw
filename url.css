@@ -1,0 +1,92 @@
+header{
+font-family: 'Lobster', cursive;  
+color: black;
+background-color: white;
+text-align: center;
+padding-top: 14px;
+padding-bottom: 15px;
+	
+	}
+
+body {
+background-color: #31809F;
+font-size: 1.2em;
+font-family: 'Dosis', sans-serif;
+text-align: center;
+}
+
+header {
+font-size: 1.5em;	
+	}
+	
+#shorturl {
+display: none;
+}
+
+form {
+padding-top: 100px;
+
+
+	}
+	
+#longurl2 {
+width: 450px;
+margin: 30px;
+height: 35px;
+text-align: center;
+font-size: 1.2em;
+font-weight: bold;
+display:none;
+}
+
+
+#footer {
+background-color: white;
+padding-top: 13px;
+	}
+
+#contact {
+font-size: 0.9em;
+}
+a {
+color: #184D68;
+
+}
+
+a:hover {
+color: #D55121;
+}
+input#longurl {
+width: 300px;
+height: 25px;
+
+
+}
+
+input{
+background-color: white;
+color: black;
+border: 1px solid #999;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+input#Shorten {
+
+width: 450px;
+height:30px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 105px;
+border-radius: 10px;
+border: 1px solid #184D68;
+background-color: rgba(49, 128, 159, 0.9);
+color:white;
+font-size: 1em;
+font-weight: bold;
+}
+
+input#Shorten:hover {
+background-color: #FB9C6C;
+}
+
